@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica;
+}
+
+#head {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('./pattern.webp')
+}
+
+.sh {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#sh1 {
+    background-color: mediumspringgreen;
+}
+
+#sh2 {
+    background-color: lightcoral;
+}
+
+#sh3 {
+    background-color: skyblue;
+}
+
+.ssh {}
